@@ -9,7 +9,8 @@ export default class PDFExample extends React.Component {
       uri: 'http://samples.leanpub.com/thereactnativebook-sample.pdf',
       cache: true,
     };
-    //const source = require('./test.pdf');  // ios only
+    // outras formas de abrir pdf
+    //const source = require('./test.pdf');  // pdf dentro do arquivo (apenas Ios)
     //const source = {uri:'bundle-assets://test.pdf'};
 
     //const source = {uri:'file:///sdcard/test.pdf'};
