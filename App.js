@@ -5,7 +5,8 @@ import Pdf from 'react-native-pdf';
 
 export default function TestePdf() {
   const source = {
-    uri: 'http://samples.leanpub.com/thereactnativebook-sample.pdf',
+    uri:
+      'http://media.ldscdn.org/pdf/lds-scriptures/holy-bible/holy-bible-83800-por.pdf',
     cache: true,
   };
   return (
