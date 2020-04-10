@@ -11,7 +11,7 @@ export default function TestePdf() {
     cache: true,
   };
   return (
-    // outras formas de abrir pdf
+    // outras formas de abrir o pdf
     //const source = require('./test.pdf');  // pdf dentro do arquivo (apenas Ios)
     //const source = {uri:'bundle-assets://test.pdf'};
 
