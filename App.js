@@ -14,7 +14,6 @@ export default function TestePdf() {
     // ways to open a pdf
     //const source = require('./test.pdf');  // pdf dentro do arquivo (apenas Ios)
     //const source = {uri:'bundle-assets://test.pdf'};
-
     //const source = {uri:'file:///sdcard/test.pdf'};
     //const source = {uri:"data:application/pdf;base64,JVBERi0xLjcKJc..."};
 
