@@ -11,7 +11,7 @@ export default function TestePdf() {
     cache: true,
   };
   return (
-    //
+    ///
     //const source = require('./test.pdf');  // pdf dentro do arquivo (apenas Ios)
     //const source = {uri:'bundle-assets://test.pdf'};
     //const source = {uri:'file:///sdcard/test.pdf'};
